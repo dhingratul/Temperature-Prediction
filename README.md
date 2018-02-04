@@ -48,10 +48,10 @@ Cases with exact match, correct prediction based on +1/-1 metric, and failure ca
 6. The trained model is stored in `model/` directory
 
  ## Model Parameters
- <img src="img/params.png", width="500" height="500">
+ ![alt text](img/params.gif)
 
 ## Model Architechture
-<img src="img/model.png",  width="200" height="900">
+![alt text](img/model.gif)
 
 # TODO
 - [ ] Better Pre-processing to reduce prediction errors (see analysis section in jupyter notebook)
